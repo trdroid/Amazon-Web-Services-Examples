@@ -62,8 +62,6 @@ A maximum of 100 buckets can be created.
 
 ### Accessing S3
 
-**Accessing**
-
 Amazon S3 is a web service that offers an API to store/upload and retrieve/download data (objects) over HTTPS. 
 
 Amazon S3 can be accessed via
